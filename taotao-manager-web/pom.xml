@@ -11,6 +11,7 @@
     <packaging>war</packaging>
     <name>taotao-manager-web Maven Webapp</name>
     <url>http://maven.apache.org</url>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -43,7 +44,6 @@
     <build>
         <finalName>taotao-manager-web</finalName>
         <plugins>
-
             <!-- 配置Tomcat插件 -->
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
@@ -54,7 +54,7 @@
                     <path>/</path>
                 </configuration>
             </plugin>
-
         </plugins>
     </build>
+
 </project>
