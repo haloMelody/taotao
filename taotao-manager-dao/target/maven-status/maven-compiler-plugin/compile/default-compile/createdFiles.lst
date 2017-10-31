@@ -1,11 +1,11 @@
+cn\taotao\mapper\TbItemCatMapper.class
+cn\taotao\mapper\TbItemDescMapper.class
+cn\taotao\mapper\TbUserMapper.class
+cn\taotao\mapper\TbContentCategoryMapper.class
+cn\taotao\mapper\TbOrderShippingMapper.class
 cn\taotao\mapper\TbItemParamItemMapper.class
 cn\taotao\mapper\TbOrderMapper.class
-cn\taotao\mapper\TbContentMapper.class
-cn\taotao\mapper\TbItemDescMapper.class
 cn\taotao\mapper\TbItemMapper.class
-cn\taotao\mapper\TbContentCategoryMapper.class
-cn\taotao\mapper\TbItemCatMapper.class
-cn\taotao\mapper\TbOrderShippingMapper.class
 cn\taotao\mapper\TbOrderItemMapper.class
+cn\taotao\mapper\TbContentMapper.class
 cn\taotao\mapper\TbItemParamMapper.class
-cn\taotao\mapper\TbUserMapper.class
